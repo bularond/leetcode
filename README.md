@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/bularond/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bularond/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/bularond/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/bularond/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/bularond/leetcode/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
