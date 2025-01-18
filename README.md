@@ -59,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/bularond/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Math
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/bularond/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/bularond/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/bularond/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
