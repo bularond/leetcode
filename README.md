@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bularond/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/bularond/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/bularond/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bularond/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/bularond/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bularond/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/bularond/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
