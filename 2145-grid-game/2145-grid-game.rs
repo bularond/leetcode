@@ -9,10 +9,10 @@ fn sum(arr: &[i64], l: usize, r: usize) -> i64 {
 }
 
 impl Solution {
-    pub fn grid_game(grid: Vec<Vec<i32>>) -> i64 {
+    pub fn grid_game(grid: Vec<Vec<i32>>) -> i64 {    
         let n = grid[0].len();
-        let mut first_sum = vec![0 as i64; n];
-        let mut second_sum = vec![0 as i64; n];
+        let mut first_sum = vec![0_i64; n];
+        let mut second_sum = vec![0_i64; n];
         first_sum[0] = grid[0][0] as i64;
         second_sum[0] = grid[1][0] as i64;
         for i in 1..n {
@@ -22,9 +22,7 @@ impl Solution {
     
         let mut min = i64::MAX;
         for i in 0..n {
-            let a = sum(&first_sum, i + 1, n);
-            let b = sum(&second_sum, 0, i);
-            min = min.min(a.max(b));
+            min = min.min(sum(&first_sum, i + 1, n).max(sum(&second_sum, 0, i)));
         }
     
         min
