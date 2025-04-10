@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bularond/leetcode/tree/master/0001-two-sum) |
+| [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bularond/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1396-count-servers-that-communicate](https://github.com/bularond/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bularond/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/bularond/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
@@ -117,5 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bularond/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
