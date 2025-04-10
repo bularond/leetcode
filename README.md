@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bularond/leetcode/tree/master/0001-two-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/bularond/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1396-count-servers-that-communicate](https://github.com/bularond/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bularond/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/bularond/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/bularond/leetcode/tree/master/0820-find-eventual-safe-states) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/bularond/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
