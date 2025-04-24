@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bularond/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bularond/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bularond/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1396-count-servers-that-communicate](https://github.com/bularond/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bularond/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
