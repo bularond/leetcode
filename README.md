@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bularond/leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/bularond/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bularond/leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/bularond/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/bularond/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bularond/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bularond/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
